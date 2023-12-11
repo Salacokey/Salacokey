@@ -9,3 +9,4 @@ console.log('完成功能6');
 console.log('功能7');
 console.log('功能8');
 console.log('功能9');
+console.log('功能10');
