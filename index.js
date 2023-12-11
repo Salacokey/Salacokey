@@ -6,4 +6,4 @@ console.log('功能4');
 console.log('完成功能5');
 console.log('完成功能6');
 
-console.log(功能7);
+console.log('功能7');
